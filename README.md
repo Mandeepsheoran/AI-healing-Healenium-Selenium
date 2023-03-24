@@ -25,7 +25,11 @@ and will be used for tree-comparing in next iteration when selenkum will throw n
 
 After successful execution, we will see one report link on console which we can use for analysis purpose. This report will have details of failed and healed locators.
 
+Sample Healenium for healed locators:
 
 ![image](https://user-images.githubusercontent.com/70449523/227504777-cca4b7bd-003a-4590-b13d-f5d5e2f11956.png)
+
+
+Healenium working design for web applications:
 
 ![healenium](https://user-images.githubusercontent.com/70449523/227505274-d020a439-a89d-410f-82d6-57fc6c55814d.png)
