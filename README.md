@@ -3,7 +3,7 @@ AI powered Healenium improves the stability of Selenium test by auto healing the
 
 Healenium is based on machine learning algoritham called LCS(Longest common subsequence).
 
-This project has selenium framework for web tests which is running with Healenium. Healenium has following components:
+This project has selenium framework for web tests which is running with Healenium. Healenium has following components,:
 1. Healenium-web
 2. Healenium-backend
 3. Postgresql db
